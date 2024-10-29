@@ -4,7 +4,7 @@ The Todo List App is a task management application developed using Flutter and D
 ## Key Features:
 •	Add, Edit, and Delete Tasks: Users can create, update, and remove tasks as needed.
 •	Task Prioritization: Tasks can be prioritized as High, Medium, or Low.
-•	Reminders and Push Notifications: Users are notified of tasks approaching their due dates.
+•	Reminders and Push Notifications: Users are notified of tasks 15 hours prior their due dates.
 •	Search Functionality: A dedicated search screen enables users to filter tasks by keywords.
 •	Persistent Storage: Tasks are stored locally on the device using Hive, ensuring data is retained across sessions.
 •	Sorting Functionality: Tasks can be sorted by due date and priority order (high to low) for better user experience.
